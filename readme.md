@@ -1,11 +1,12 @@
 # jisClone
 This is the fronend clone of my university website with tailwind css
 
+### University Website
 [www.jisuniversity.ac.in/](www.jisuniversity.ac.in/)
 
-## Installation
+### clone
+[https://jis-clone.vercel.app/](https://jis-clone.vercel.app/)
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ## Demo
 ### Responsive
